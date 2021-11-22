@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... [Git Hub Profile](https://github.com/karunakarhv)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
+
+![Metrics](https://github.com/karunakarhv/karunakarhv/blob/main/github-metrics.svg)
