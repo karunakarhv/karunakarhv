@@ -9,4 +9,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 
-![Metrics](https://github.com/karunakarhv/karunakarhv/blob/main/github-metrics.svg)
+![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=karunakarhv&show_icons=true&theme=radical)
