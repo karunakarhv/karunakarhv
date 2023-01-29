@@ -9,6 +9,8 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 
+<a href="https://app.daily.dev/karun"><img src="https://api.daily.dev/devcards/93448bffc6ff4515844d1b572f5daa09.png?r=bvl" width="400" alt="Karunakar Hv's Dev Card"/></a>
+
 ![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=karunakarhv&show_icons=true&theme=radical)
 
 ### Programming Languages 🌐
@@ -45,5 +47,3 @@ many more...
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
-
-<a href="https://app.daily.dev/karun"><img src="https://api.daily.dev/devcards/93448bffc6ff4515844d1b572f5daa09.png?r=bvl" width="400" alt="Karunakar Hv's Dev Card"/></a>
