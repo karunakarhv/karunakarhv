@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Python
-- 🌱 I’m currently learning ... Appium
-- 👯 I’m looking to collaborate on ... Python
-- 🤔 I’m looking for help with ... Python
+- 🔭 I’m currently working on ... Python, Typescript, Automation Testing(API, UI, E2E)
+- 🌱 I’m currently learning ... Playwright
+- 👯 I’m looking to collaborate on ... Python, Typescript, Automation Testing(API, UI, E2E)
+- 🤔 I’m looking for help with ... Python, Typescript, Automation Testing(API, UI, E2E)
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Git Hub Profile](https://github.com/karunakarhv)
 - 😄 Pronouns: ... He/Him
